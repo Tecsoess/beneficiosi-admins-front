@@ -1,0 +1,230 @@
+[33mcommit 79dfcf942cadd72928074fc40829145210ab4b06[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Wed Oct 6 12:47:02 2021 -0400
+
+    changes
+
+[33mcommit ee142cf703bb2b45d8205906cfae19ae6e6c8a26[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Wed Oct 6 12:46:29 2021 -0400
+
+    feature (footerSection): change name
+
+[33mcommit bd1ba8cad1505622c6147dfdbe3aaf4798b45df3[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Wed Oct 6 12:27:38 2021 -0400
+
+    feature (FootersSections): add connections to the footer sections
+
+[33mcommit 309ed04215dee45b560dfce26cd8ff1503bae2b1[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 23 11:25:45 2021 -0400
+
+    fix (updateStoreForm): updatestore form
+
+[33mcommit a07596be0fea74fa3685367bcbd4dd018d390518[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 16 14:20:18 2021 -0400
+
+    feature (locationsEdit): add edit of the locations
+
+[33mcommit 5736b358aa3da1fa8467cdc445915a2de1a2e2f3[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Tue Sep 14 17:16:06 2021 -0400
+
+    feature (Locations, Tags): add refactores
+
+[33mcommit 80a284d0d9c81908fd8fd5e087fe5c26ed7424bb[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 9 15:49:49 2021 -0400
+
+    feature (Brands): add crud of brands.
+
+[33mcommit 902937299fc1aef7965ac210293bbfee080284fd[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Wed Sep 8 17:19:24 2021 -0400
+
+    feature (Discounts): add discount table to the discount links
+
+[33mcommit ae5e458fe64fe299f24c45b1cc272406995ea254[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 2 17:32:40 2021 -0400
+
+    refactor (NotificationsComponent): add dinamyc color
+
+[33mcommit bd98a5c57f726963cf489df99fa8a25eb8e4d61c[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 2 16:29:53 2021 -0400
+
+    refactor (NotificationsComponent): add circle yif the notification is not see
+
+[33mcommit f5aeb46401fe2158fe751e77683cbb0396848001[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 2 16:15:28 2021 -0400
+
+    refactor (notificationsComponent): add Box if notifications is empty
+
+[33mcommit 1f7aa7646ea0e67b95911995d9d8e0542ec1039c[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 2 15:49:27 2021 -0400
+
+    feature (locations): add filters and delete location
+
+[33mcommit e9414e60ce88ac04a4c8851ce249fa40bcd8c325[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 2 11:08:00 2021 -0400
+
+    feature (DashBoard): add connection to dashboard
+
+[33mcommit b318bba38e16019476e61b4ff0388844c6ff2cbe[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Sep 2 10:25:58 2021 -0400
+
+    Refactor (AppLayout, Dir structure): refactor to AppLayout and dir struncture of the components
+
+[33mcommit 49d2645b4432963ae84a16cb8265d6a7677f641f[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Wed Sep 1 22:55:17 2021 -0400
+
+    Feature (Notifications): add notifications
+
+[33mcommit 4629d571f6a90298bda417942241255adfb1c24d[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Mon Aug 30 15:15:13 2021 -0400
+
+    refactor (ordersEdit): add filters to orders statuses to filter de option to change the orders status
+
+[33mcommit b5d4f9ac36932297ce9915a3a202ae348c2de8af[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Aug 26 16:51:51 2021 -0400
+
+    refactor (ordersEdit): add change status to orders edit
+
+[33mcommit 6f6a2b7db2c35bd953f3c3f40903bafea4223b96[m
+Merge: 4c01dbe a4f550e
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Thu Aug 26 11:52:44 2021 -0400
+
+    Merge pull request #30 from ICKillerGH/refactor/ads
+    
+    refactor (ads): add update sections for cruds
+
+[33mcommit a4f550e0df3c51771cd81f61776769398367ca5f[m[33m ([m[1;31morigin/refactor/ads[m[33m, [m[1;32mrefactor/ads[m[33m)[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Aug 26 11:52:56 2021 -0400
+
+    refactor (ads): add update sections for cruds
+
+[33mcommit 4c01dbe1af79b5835fbfc8be3f717d1d914f4534[m
+Merge: 0d070bd b4ba000
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Thu Aug 26 11:00:37 2021 -0400
+
+    Merge pull request #29 from ICKillerGH/refactor/ads
+    
+    refactor (ads): add filters to ads
+
+[33mcommit b4ba00090d364f9b116578a277d9a880bd089cee[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Aug 26 11:00:13 2021 -0400
+
+    refactor (ads): add filters to ads
+
+[33mcommit 0d070bdadadfbbb0bd8453f145a70a556f7d5259[m
+Merge: 5002099 8bba024
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Thu Aug 26 09:09:32 2021 -0400
+
+    Merge pull request #28 from ICKillerGH/refactor/SectionBussinessHome
+    
+    refactor (SectionBussinessHome): add field url to button
+
+[33mcommit 8bba02420f54d807ea4e091a99b03e8d75161fc6[m[33m ([m[1;31morigin/refactor/SectionBussinessHome[m[33m, [m[1;32mrefactor/SectionBussinessHome[m[33m)[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Thu Aug 26 09:08:18 2021 -0400
+
+    refactor (SectionBussinessHome): add field url to button
+
+[33mcommit 5002099b79d21f0682e8498da22532fc157b2587[m
+Merge: 9617714 da69748
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Tue Aug 24 11:40:34 2021 -0400
+
+    Merge pull request #27 from ICKillerGH/feature/checkout
+    
+    Feature/checkout
+
+[33mcommit da69748d35269d7cce796300061ed57d9c74e4a7[m[33m ([m[1;31morigin/feature/checkout[m[33m, [m[1;32mfeature/checkout[m[33m)[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Tue Aug 24 11:40:38 2021 -0400
+
+    feature (orders): add button to change estatus on orders
+
+[33mcommit 3f541d7be7e4d8df23c21fa40e67f50bf0553849[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Tue Aug 24 08:35:36 2021 -0400
+
+    feature (checkout): add connection to the backend
+
+[33mcommit 961771479bbf37ca6bc6e18b8bd7a5af85515b00[m
+Merge: b1ca7d8 40b4e71
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Wed Aug 11 15:21:25 2021 -0400
+
+    Merge pull request #26 from ICKillerGH/feature/Cards
+    
+    feature (Cards): Crud
+
+[33mcommit 40b4e71b02adb5cc3774745e7f97c552afe7ffd6[m[33m ([m[1;31morigin/feature/Cards[m[33m, [m[1;32mfeature/Cards[m[33m)[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Wed Aug 11 15:19:35 2021 -0400
+
+    feature (Cards): Crud
+
+[33mcommit b1ca7d8953d4527ec5ee4ace9f9658a63e92e4db[m
+Merge: 30f8e60 b56a5e8
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Wed Aug 11 12:00:57 2021 -0400
+
+    Merge pull request #25 from ICKillerGH/feature/BankAccounts
+    
+    feature (BankAccounts): Crud
+
+[33mcommit b56a5e8b0cc426fc1089e8f7121d74c80819b346[m[33m ([m[1;31morigin/feature/BankAccounts[m[33m, [m[1;32mfeature/BankAccounts[m[33m)[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Wed Aug 11 11:59:41 2021 -0400
+
+    feature (BankAccounts): Crud
+
+[33mcommit 30f8e605c3eacc16cb79c01900e37506b12d4e27[m
+Merge: 07beb5d dc02263
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Tue Aug 10 21:00:42 2021 -0400
+
+    Merge pull request #24 from ICKillerGH/feature/bankAccountsTypes
+    
+    feature (bankAccountsTypes): Crud
+
+[33mcommit dc022634e6d95b4ab7f0c224d1da946dbfb2c7d4[m[33m ([m[1;31morigin/feature/bankAccountsTypes[m[33m, [m[1;32mfeature/bankAccountsTypes[m[33m)[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Tue Aug 10 20:58:36 2021 -0400
+
+    feature (bankAccountsTypes): Crud
+
+[33mcommit 07beb5d96381c68e60dd666ac8d3bd0c4d075bcd[m
+Author: Jeyver Vegas <tridant16@gmail.com>
+Date:   Tue Aug 10 17:39:26 2021 -0400
+
+    added filter for type CardIssuers
+
+[33mcommit 78d0d5db824874604b4820ab723f512d59112c3c[m
+Merge: 4a00753 5622bde
+Author: JeyverVegas <45801080+JeyverVegas@users.noreply.github.com>
+Date:   Tue Aug 10 16:59:33 2021 -0400
+
+    Merge pull request #23 from ICKillerGH/feature/CarsIssuers
+    
+    Feature (CardIssuers): add crud of cards issuers
+
+[33mcommit 5622bdee41381e398bb0d81262e673f3bbd123a2[m[33m ([m[1;31morigin/feature/CarsIssuers[m[33m, [m[1;32mfeature/CarsIssuers[m[33m)[m
+Author: Jeyver Vegas
